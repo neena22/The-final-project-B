@@ -1,0 +1,11 @@
+﻿List of every Python package i imported : 
+* NumPy
+* Pandas
+* Matplotlib
+* OS
+* Warnings
+* Pillow (PIL)
+* Kagglehub
+* Scikit-Learn
+* TensorFlow
+* Keras
